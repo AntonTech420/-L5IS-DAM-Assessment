@@ -101,7 +101,9 @@
     }
   }
   
-
+.p3{
+    font-size: 50px;
+}
 
 .column {
   float: left;
@@ -109,11 +111,11 @@
 
 }
 .middle {
-  width: 42%;
+  width: 33.33%;
 }
 
 .left, .right { /* sets rows on left and right at 28% so they are contained at tht side within the div */
-  width: 28%;
+  width: 33.33%;
 }
 
 /* Clearfix (clear floats) */
