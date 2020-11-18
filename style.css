@@ -7,17 +7,18 @@
     color: white;
   }
   .mall{
-    color: black;
+    color: white;
     font-size: 60px;
+    padding-top: 200px;
 
   }
   /* Header for top part of website */
   .header {
     padding: 100px ;
-    background-image: url(https://d1cfnnhb7hbym9.cloudfront.net/dist/images/home_design.eb7d4643f05241d90fe789e19794d804.jpg);
+    background-image: url(mallwest.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+
     
 
   }
